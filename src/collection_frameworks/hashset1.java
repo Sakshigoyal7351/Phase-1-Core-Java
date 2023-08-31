@@ -11,6 +11,7 @@ public class hashset1 {
 		hs1.add("sunday");
 		hs1.add("monday");
 		hs1.add("tuesday");
+		hs1.add("sunday");
 		
 		System.out.println(hs1);
 		
@@ -25,9 +26,9 @@ public class hashset1 {
 			System.out.println(i);
 		}
 		
-		hs1.remove("monday");
-		System.out.println(hs1);
-		
+//		hs1.remove("monday");
+//		System.out.println(hs1);
+//		
 		
 		
 		HashSet<String> s1 = new HashSet<>();

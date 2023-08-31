@@ -16,6 +16,8 @@ public class ArrayList1 {
 		list1.add("Mabe");
 		list1.add("John");
 		list1.add("Justin");
+		list1.add("simplilearn");
+		list1.add("simplilearn");
 		
 		//1 way of printing 
 		System.out.println(list1);
